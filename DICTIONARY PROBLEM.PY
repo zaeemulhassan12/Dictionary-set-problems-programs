@@ -1,0 +1,11 @@
+# PROBLEM NO:1 
+
+WORDS= {
+    "ZAEEM":"UL HASSAN",
+    "ALI":"HASSAN",
+    "USMAN":"UL HASSAN",
+    "AMEER":"ALI"
+}
+WORD= input("ENTER A NUMBER HERE:")
+
+print(WORDS[WORD])

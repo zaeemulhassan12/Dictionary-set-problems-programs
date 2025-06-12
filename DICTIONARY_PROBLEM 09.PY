@@ -1,0 +1,20 @@
+D={}
+
+NAME = input("ENTER YOUR NAME: ")
+LANGUAGE = input("ENTER YOU LANGAGE:")
+D.update({NAME:LANGUAGE})
+
+NAME = input("ENTER YOUR NAME: ")
+LANGUAGE = input("ENTER YOU LANGAGE:")
+D.update({NAME:LANGUAGE})
+
+NAME = input("ENTER YOUR NAME: ")
+LANGUAGE = input("ENTER YOU LANGAGE:")
+D.update({NAME:LANGUAGE})
+
+NAME = input("ENTER YOUR NAME: ")
+LANGUAGE = input("ENTER YOU LANGAGE:")
+D.update({NAME:LANGUAGE})
+
+print(D)
+
